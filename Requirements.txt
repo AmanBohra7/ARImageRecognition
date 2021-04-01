@@ -1,0 +1,5 @@
+::Versions 
+- Unity : 2019.4.13f1
+- ARFoundation : 4.1.1
+- ARCore XR plugin : 4.1.1
+- XR Plugin Management 3.2.16
